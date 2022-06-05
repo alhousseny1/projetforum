@@ -1,0 +1,9 @@
+Inscription / connexion / deconnexion
+poster un message
+modifier un message
+supprimer un message
+repondre a un msg
+rechercher et afficher les msg
+
+VALUES (NULL,? ,?, ?, id_utilisateur, ?)' )
+(sujet, message, id_auteur, pseudo_auteur, date_publication, image) 

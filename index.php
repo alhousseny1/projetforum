@@ -47,5 +47,4 @@ require('actions/message/showAllMessageAction.php');
               
             ?>
     <div>
-</body>
-</html>
+<?php include 'includes/footer.php';?>
